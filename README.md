@@ -6,7 +6,8 @@ A program a nap folyamán magától megszólaltatja a jelző-, be- és kicsenget
 
 
 
-!(docs/readme-2.png)
+<img width="1145" height="695" alt="screenshot" src="https://github.com/user-attachments/assets/91d42f38-ca02-48f4-b27f-7d63d46e9d13" />
+
 
 
 
