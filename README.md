@@ -1,5 +1,8 @@
 # PyRing – iskolai csengető program
 
+<img width="350" height="350" alt="pyring_350px" src="https://github.com/user-attachments/assets/d8672443-198a-410b-8b9e-3afca3657459" />
+
+
 Automatikus iskolai csengető Pythonban (PySide6 + pygame).
 
 A program a nap folyamán magától megszólaltatja a jelző-, be- és kicsengetést, a szünetek zenéjét és a tűzriadó jelzést. Egész héten futhat, felügyelet nélkül.
