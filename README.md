@@ -6,7 +6,7 @@ A program a nap folyamán magától megszólaltatja a jelző-, be- és kicsenget
 
 
 
-![screenshot.png](docs/readme-2.png)
+!(docs/readme-2.png)
 
 
 
