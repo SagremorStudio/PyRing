@@ -1,6 +1,6 @@
 # PyRing – iskolai csengető program
 
-Automatikus iskolai csengető Pythonban (PySide6 + pygame). A korábbi Pascal alapú PRing v1 újraírása: egységes csengetési rend szerkezettel, szünetzenével, tűzriadóval és modern, sötét felülettel.
+Automatikus iskolai csengető Pythonban (PySide6 + pygame).
 
 A program a nap folyamán magától megszólaltatja a jelző-, be- és kicsengetést, a szünetek zenéjét és a tűzriadó jelzést. Egész héten futhat, felügyelet nélkül.
 
